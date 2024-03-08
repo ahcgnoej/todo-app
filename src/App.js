@@ -11,7 +11,7 @@ function App() {
   const [todo, setTodo] = useState([
     {
       id: 1,
-      text: "밥먹기",
+      text: "밥그만먹기",
       checked: true,
     },
     {
